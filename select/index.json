@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Live Forever",
+  "base_artist": "Oasis",
+  "createdAt": "2026-02-21T11:59:38.916408Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Don't Wanna Live Forever (Fifty Shades Darker)",
+      "artist": "ZAYN feat. Taylor Swift",
+      "has_synced": true,
+      "path": "select/01_I_Don't_Wanna_Live_Forever_(Fifty_Shades_Darker)_ZAYN_feat._Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Don’t Wanna Live Forever (Fifty Shades Darker)",
+      "artist": "ZAYN",
+      "has_synced": true,
+      "path": "select/02_I_Don’t_Wanna_Live_Forever_(Fifty_Shades_Darker)_ZAYN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Live Forever",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/03_Live_Forever_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Live Forever",
+      "artist": "Lil Peep",
+      "has_synced": true,
+      "path": "select/04_Live_Forever_Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Live Forever",
+      "artist": "Lil Peep",
+      "has_synced": true,
+      "path": "select/05_Live_Forever_Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Live Forever - Live at Glastonbury '95",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/06_Live_Forever_-_Live_at_Glastonbury_'95_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Live Forever (Live At Glastonbury '95)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/07_Live_Forever_(Live_At_Glastonbury_'95)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Live Forever (Live Glastonbury '95)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/08_Live_Forever_(Live_Glastonbury_'95)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Live Forever - Live Paris Instore",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/09_Live_Forever_-_Live_Paris_Instore_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Live Forever (Live Paris Instore)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/10_Live_Forever_(Live_Paris_Instore)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Live Forever",
+      "artist": "Black Sabbath",
+      "has_synced": true,
+      "path": "select/11_Live_Forever_Black_Sabbath.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Live Forever (Live at Knebworth, 10 August '96)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/12_Live_Forever_(Live_at_Knebworth,_10_August_'96)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Live Forever (Live at Knebworth)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/13_Live_Forever_(Live_at_Knebworth)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Live Forever",
+      "artist": "The Rasmus",
+      "has_synced": true,
+      "path": "select/14_Live_Forever_The_Rasmus.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Live Forever",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/pl_01_Live_Forever_Oasis.txt"
+    }
+  ]
+}
